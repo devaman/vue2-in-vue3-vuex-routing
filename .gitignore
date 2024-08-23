@@ -1,0 +1,4 @@
+node_modules
+vue2/node_modules
+vue3/node_modules
+pnpm-lock.yaml

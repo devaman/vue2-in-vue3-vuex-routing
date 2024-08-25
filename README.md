@@ -1,6 +1,9 @@
 # Vue3 use vue2 component Example
 
 This example demos a vue3 application loading remote vue2 component.`vue3` app depends on a component exposed by `vue2` app.
+We have Vuex 4 , Vue router 4 for Vue 3 and Vuex 3 , Vue router 3 for Vue 2 synced for Vue 3 as a host and Vue 2 remote.
+Wrote polyfills to integerate store and router.
+
 
 # Running Demo
 
